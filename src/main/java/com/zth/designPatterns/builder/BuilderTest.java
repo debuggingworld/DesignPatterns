@@ -1,4 +1,4 @@
-package com.zth.builder;
+package com.zth.designPatterns.builder;
 
 /**
  * @author 猫和少年
